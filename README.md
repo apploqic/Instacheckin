@@ -7,14 +7,21 @@ To provide the leading edge platform to inspire hotel organizations in Malaysia 
 
 
 ### What it does
+
 The user required to download the app anywhere from the playstore or by scanning QR code. Prior to check in, they need to search for a QR code nearby and scan the code to check in. Guest required to fill up the check-in details. After submission, Hotel front desk staff required to verify the latest guests details before handing over the room key. 
 
-##### Benefits:-
+### Benefits:-
+
 Save time. Fill in the forms right away in your fingertips even before you reach the hotel
+
 Drives more revenue. Capture customer contact data which help hotel grow their email lists which can help to promote hotel activities.
+
 Convenient. Mobile check-in allow guests to check-in from anywhere before they set foot in a hotel.  
+
 Efficient. Smooth check-in process will allows the staff to keep up with their activities efficiently. 
+
 Reliability. The ability to provide what was promised, dependably and accurately ; make sure the hotel front desk staff correctly identify guest needs, promise only what can deliver and follow through to ensure that the service was received as promised.
+
 Assurance. Take the time to serve guests one at a time. Provide service assertively by using positive communication techniques and describing products and services accurately.
 
 
