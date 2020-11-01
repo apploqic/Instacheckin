@@ -4,6 +4,9 @@
   <img src="https://github.com/apploqic/Instacheckin/blob/main/Images/logo.JPG"/>
 </p>
 
+## Demo 
+
+[Click here for demo video](https://www.youtube.com/watch?v=7lGJrq24P6o)&nbsp;<br>
 
 ## Inspiration
 
