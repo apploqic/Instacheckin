@@ -1,7 +1,7 @@
 # InstaCheckIn
 
 <p align="center">
-  <img src="https://github.com/apploqic/Instacheckin/blob/main/Images/logo.JPG" width="800"/>
+  <img src="https://github.com/apploqic/Instacheckin/blob/main/Images/logo.JPG"/>
 </p>
 
 
