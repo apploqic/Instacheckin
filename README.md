@@ -1,16 +1,16 @@
 # InstaCheckIn
 
-### Inspiration
+## Inspiration
 
 Being a frequent traveler,we used to stand in the long queue for the check-in purpose. Rather than waiting along the line, they prefer to have a simple procedure that allows them to go directly to their room. Most of the hotels are still adopting the traditional way of check-in which will affect daily operations. Mobile check-in will free up staff time so that they can concentrate on delivering their service. During the covid-19 pandemic, we want to emphasize on contactless check-in where it benefits the hotel guests and hotel staff. 
 To provide the leading edge platform to inspire hotel organizations in Malaysia and the Asean region to all business travellers, vacation travellers, families, tour group and handicapped guest
 
 
-### What it does
+## What it does
 
 The user required to download the app anywhere from the playstore or by scanning QR code. Prior to check in, they need to search for a QR code nearby and scan the code to check in. Guest required to fill up the check-in details. After submission, Hotel front desk staff required to verify the latest guests details before handing over the room key. 
 
-### Benefits:-
+## Benefits:-
 
 Save time. Fill in the forms right away in your fingertips even before you reach the hotel
 
@@ -25,35 +25,37 @@ Reliability. The ability to provide what was promised, dependably and accurately
 Assurance. Take the time to serve guests one at a time. Provide service assertively by using positive communication techniques and describing products and services accurately.
 
 
-### How we built it
+## How we built it
 
 Android Studio , Java, Firebase 
 
-### Challenges we ran into
+## Challenges we ran into
 
 Initially the user interface design is the only obstacle. 
 
-### Accomplishments that we're proud of
+## Accomplishments that we're proud of
 
 We successfully built the next generation mobile check-in app which provides a contactless solution. 
 
-### What we learned
+## What we learned
 
-Teamwork. We conducted live meeting from the validation of idea, development stages and submission. 
+Teamwork. We conducted live meeting from the validation of idea, development stages and submission.
+
 Service Mission. The direction or vision of an organization that supports day-to-day interaction with the guest
+
 Delivery system. The ways an organization deliver its products and services.
 
 
-### What's next for instaCheckIn
+## What's next for instaCheckIn
 
 The integration with the hotel PMS ( property management system ) where it will sync the room availability. 
 Payment method integration with payment gateway to enable guests to make payment right after the guests filled up the form. 
 Products and services. The materials, products and services that are state of the art, competitively priced and meet the needs of guests.
 
 
-### How to use 
+## How to use 
 
-##### Staff app 
+### Staff app 
 
 * Click  on Register 
 * Get your hotel registered to instaCheckIn service by filling up necessary details.
@@ -65,7 +67,7 @@ Products and services. The materials, products and services that are state of th
 * When the customer arrives at the desk  , ask them to show the notification on their phone , and finally hand over the key.
 
 
-##### Guest app 
+### Guest app 
 * Scan the QR code which generated from the staff app 
 * Fill up the registration form and click Submit button.
 * Once done, upload an id proof and also give your digital signature on the signature pad , and then submit the form . 
