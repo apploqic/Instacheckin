@@ -32,15 +32,15 @@ Assurance. Take the time to serve guests one at a time. Provide service assertiv
 
 ## How we built it
 
-Android Studio , Java, Firebase 
+Android Studio, Java, Firebase, Andriod SDK, Adobe Premier Pro, UI-UX, Adobe XD.
 
 ## Challenges we ran into
 
-Initially the user interface design is the only obstacle. 
+Absence of standard UI for android, choice of programming language, software fragmentation.
 
 ## Accomplishments that we're proud of
 
-We successfully built the next generation mobile check-in app which provides a contactless solution. 
+We successfully built the next generation mobile check-in app which provides a contactless solution (specially in the post Covid situation).
 
 ## What we learned
 
@@ -60,24 +60,25 @@ Products and services. The materials, products and services that are state of th
 
 ## How to use 
 
-### Staff app 
+### instaCheckIn for business
 
-* Click  on Register 
-* Get your hotel registered to instaCheckIn service by filling up necessary details.
-* Then  login and click Generate QR(top right menu) to  get your unique QR code.
+* Click on Register 
+* Get your hotel registered to **instaCheckIn** service by filling up necessary details.
+* Then  login and click Generate QR (top right menu) to  get your unique QR code.
 * Print multiple copies of the qr code and stick them up in various places in and around your reception area so that incoming tourist’s can scan them.
 * Login to the app and you will be presented with a live ,dynamically updating list of customers (with the most recent customer at top).
 * Click on a particular tourist and you will be directed to  the form(read-only) that the tourist filled in with the tourist id and signature.
 * Once you are satisfied with the details , click on the verify button and the customer will be sent a verification notification to their phone, to come and collect the room key.
-* When the customer arrives at the desk  , ask them to show the notification on their phone , and finally hand over the key.
+* When the customer arrives at the desk, ask them to show the notification on their phone, and finally hand over the key.
 
 
-### Guest app 
-* Scan the QR code which generated from the staff app 
-* Fill up the registration form and click Submit button.
-* Once done, upload an id proof and also give your digital signature on the signature pad , and then submit the form . 
+### instaCheckIn
+
+* Find the nearby QR code and scan.
+* Fill up the registration form and click submit button.
+* Once done, upload an id proof and also give your digital signature on the signature pad, and then submit the form. 
 * Form submitted, please wait for a notification for your room key.
-* After the tourist gets the notification, then they are required to go the front desk and show the notification and collect the room key.
+* After the tourist gets the notification, then they are required to go the reception and show the notification and collect the room key.
 
 
 
