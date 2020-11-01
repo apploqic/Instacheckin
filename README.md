@@ -1,5 +1,10 @@
 # InstaCheckIn
 
+<p align="center">
+  <img src="https://github.com/apploqic/Instacheckin/blob/master/Images/logo.JPG" width="800"/>
+</p>
+
+
 ## Inspiration
 
 Being a frequent traveler,we used to stand in the long queue for the check-in purpose. Rather than waiting along the line, they prefer to have a simple procedure that allows them to go directly to their room. Most of the hotels are still adopting the traditional way of check-in which will affect daily operations. Mobile check-in will free up staff time so that they can concentrate on delivering their service. During the covid-19 pandemic, we want to emphasize on contactless check-in where it benefits the hotel guests and hotel staff. 
