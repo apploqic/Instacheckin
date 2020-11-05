@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">StaffApp</string>
-    <string name="qr"> Generate QR</string>
-    <string name="help">Help</string>
-
-</resources>
