@@ -67,7 +67,7 @@ Products and services. The materials, products and services that are state of th
 
 * Click on Register 
 * Get your hotel registered to **instaCheckIn** service by filling up necessary details.
-* Then  login and click Generate QR (top right menu) to  get your unique QR code.
+* Then  login and click Generate QR (bottom right) to  get your unique QR code.
 * Print multiple copies of the qr code and stick them up in various places in and around your reception area so that incoming tourist’s can scan them.
 * Login to the app and you will be presented with a live ,dynamically updating list of customers (with the most recent customer at top).
 * Click on a particular tourist and you will be directed to  the form(read-only) that the tourist filled in with the tourist id and signature.
